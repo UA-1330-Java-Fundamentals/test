@@ -2,7 +2,7 @@ package homework3;
 
 import java.util.Scanner;
 
-public class Test {
+public class FlowerShopCalculator {
     public static void main(String[] args) {
         System.out.println("Введіть кількість квітів, яку ви хочете купити");
         Scanner scan = new Scanner(System.in);
